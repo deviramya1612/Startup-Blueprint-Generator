@@ -1,0 +1,30 @@
+{
+  "appName": "Startup Blueprint Generator",
+  "version": "1.0.0",
+  "description": "An AI-powered Startup Blueprint Generator that transforms startup ideas into comprehensive business blueprints using Agentic AI, IBM watsonx, GPT-OSS 120B, and RAG.",
+  "developer": "Dwarampudi K S Sindu Vijaya Devi Ramya",
+  "platform": "IBM watsonx Orchestrate",
+  "model": "GPT-OSS 120B (OpenAI via Groq)",
+  "architecture": "Multi-Agent AI with RAG",
+  "knowledgeBase": "Startup Blueprint Generator Knowledge Base",
+  "features": [
+    "Startup Idea Analysis",
+    "Business Model Canvas",
+    "Market Research",
+    "Competitor Analysis",
+    "SWOT Analysis",
+    "Funding Recommendations",
+    "Government Scheme Suggestions",
+    "Go-to-Market Strategy",
+    "Investor Pitch Deck",
+    "30-60-90 Day Roadmap"
+  ],
+  "output": [
+    "Business Blueprint",
+    "Funding Report",
+    "Market Analysis",
+    "Implementation Roadmap",
+    "Pitch Deck Outline"
+  ],
+  "license": "MIT"
+}
